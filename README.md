@@ -8,6 +8,6 @@ How to use:
 1) Go to any whatsapp chat => More => Export chat => Save to Drive (or other options)
 
 2) Pass downloaded_file to the command...
-python3 whatsapp_to_slack.py [-h] [-c chanel_name] [-o slack_data.txt] downloaded_file.txt
+python3 parse.py [-h] [-c chanel_name] [-o slack_data.txt] downloaded_file.txt
 
 3) Go to https://<your_company>.slack.com/services/import/csv & upload slack_data.txt & follow on screen instructions.
