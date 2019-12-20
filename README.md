@@ -14,8 +14,8 @@ python3 parse.py [-h] [-c chanel_name] [-o slack_data.txt] downloaded_file.txt
 
 Keywords:
 
-whatsapp to slack
-export from whatsapp
-import to slack
+whatsapp to slack, 
+export from whatsapp, 
+import to slack, 
 whatsapp group to slack channel 
 
